@@ -5,4 +5,4 @@ Available on the Docker Hub as [donal/mesos](https://registry.hub.docker.com/u/d
     docker pull donal/mesos
 
 ### Versions
-* Mesos 0.19.0
+* Mesos 0.19.1
