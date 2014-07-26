@@ -4,7 +4,7 @@
 
 FROM thefactory/java
 
-MAINTAINER Mike Babineau mike@thefactory.com
+MAINTAINER Dmitriy Kiriyenko dmitriy.kiriyenko@gmail.com
 
 # Install Mesos
 RUN apt-get -y install curl
